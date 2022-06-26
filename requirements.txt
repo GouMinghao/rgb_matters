@@ -1,0 +1,11 @@
+torch==1.8.2
+torchvision==0.9.2
+tensorboard
+numpy
+opencv-python
+open3d==0.8.0.0
+tqdm
+Pillow
+scipy
+graspnetAPI==1.2.10
+pyyaml

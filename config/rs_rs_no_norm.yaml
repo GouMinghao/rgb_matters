@@ -1,0 +1,25 @@
+batch_size: 8
+eval_batch_size: 1
+eval_train_batch_num: 80
+eval_test_batch_num: 80
+train_camera: realsense
+test_camera: realsense
+lr: 4e-4
+lr_decay: 0.8
+grad_clip: 5.0
+iters: 120000
+num_layers: 50
+use_normal: False
+normal_only: False
+augmentation: 
+  grayscale: False
+  colorjitter_scale: 0
+  random_crop: 0
+
+split:
+  test_split: test
+  train_split: train
+
+loss:
+  pos: 1.0
+  neg: 1.0

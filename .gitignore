@@ -1,0 +1,11 @@
+*.pyc
+*.pth
+*.npy
+*.pkl
+/logs/
+/tb_log/
+/.vscode/
+events.out.*
+*.json
+/vis
+/weights
