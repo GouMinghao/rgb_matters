@@ -1,5 +1,5 @@
 # rgbd_graspnet
-![](https://graspnet.net/images/graspnetlogo1-blue.png)
+[![](https://graspnet.net/images/graspnetlogo1-blue.png)](https://graspnet.net/index.html)
 Implementation for ICRA 2021 paper [RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images](https://arxiv.org/pdf/2103.02184).
 
 Project Website [https://graspnet.net/publications.html](https://graspnet.net/publications.html)
