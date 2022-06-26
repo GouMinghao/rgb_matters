@@ -13,6 +13,9 @@ cd rgb_matters
 python3 -m pip install -r requirements.txt
 ```
 
+## Download the GraspNet dataset
+Download and setup following the [official website](https://graspnet.net/datasets.html).
+
 ## Generate label
 1. Modify the values in [constant.py](rgbd_graspnet/constant.py) to your own.
 2. Run `gen_labels.py`
